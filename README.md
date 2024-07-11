@@ -43,7 +43,7 @@ Para utilizar este repositório, siga as instruções abaixo:
 
 2. Navegue até o diretório desejado:
     ```bash
-    cd Desafios/Desafio001
+    cd php-moderno/Desafios/Desafio001
     ```
 
 3. Abra os arquivos PHP em seu editor de código preferido e execute-os em um servidor web local.
@@ -52,4 +52,4 @@ Para utilizar este repositório, siga as instruções abaixo:
 
 **Curso**: PHP Moderno: Módulo 01  
 **Instrutor**: Gustavo Guanabara  
-**Repositório criado por**: Renan Mariano(https://github.com/RenanTGMF)
+**Repositório criado por**: Renan Mariano (https://github.com/RenanTGMF)
